@@ -10,17 +10,6 @@
 
 Learn Python basics and perform basic data exploration and cleaning using Pandas on a real-world shopping transactions dataset.
 
----
-
-## 📁 Repository Structure
-
-```
-├── Shopping_Data_Exploration.ipynb   # Main Jupyter Notebook (all 7 steps)
-├── shopping_dataset.csv              # Raw dataset (204 rows × 9 columns)
-├── shopping_cleaned.csv              # Cleaned & enriched dataset (200 rows × 10 columns)
-├── Project_Summary.md                # Brief project summary
-└── README.md                         # This file
-```
 
 ---
 
